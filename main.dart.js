@@ -79210,7 +79210,7 @@ A.Td.prototype={
 wC(a,b){return this.acm(a,b)},
 acm(a,b){var s=0,r=A.O(t.ob),q,p,o,n,m
 var $async$wC=A.P(function(c,d){if(c===1)return A.L(d,r)
-while(true)switch(s){case 0:p=A.fg("http://148.113.183.232:5000/login/",0,null)
+while(true)switch(s){case 0:p=A.fg("https://snowsoft.com.br:5000/login/",0,null)
 o=t.N
 n=A.av(["Content-Type","application/json"],o,o)
 s=3
